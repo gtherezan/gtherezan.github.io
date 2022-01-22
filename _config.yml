@@ -6,7 +6,7 @@ title: Currículo do Guilherme
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-baseurl: '/online-cv' 
+# baseurl: '/online-cv' 
 
 description: Currículo e Portifólio - Guilherme Therezan
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
