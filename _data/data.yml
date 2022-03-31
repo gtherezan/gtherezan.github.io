@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Guilherme Burgueira Feres Therezan
@@ -35,44 +35,33 @@ sidebar:
         level: Profissional
 
     interests:
-      - item: E-sports
+      - item: Áudio e Música
         link:
 
       - item: Corrida
         link:
+              
+      - item: E-sports (CS:GO)
+        link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil Profissional
     summary: |
-      Sou um analista de dados com 1 ano de experiência em BI em uma companhia de mais de 10 mil colaboradores. Realizei diversos projetos guiados através de cursos que abordam o ecossistema do Microsoft Power BI. Possuo conhecimentos sobre estatística, SQL e Python. Tenho interesse em aplicar meus conhecimentos adquiridos em demandas reais e entregar insights que habilitam a boa tomada de decisão dos stakeholders.
+      Sou um analista de dados com experiência em BI em uma companhia de mais de 10 mil colaboradores. Realizei diversos projetos guiados através de cursos que abordam o ecossistema do Microsoft Power BI. Possuo conhecimentos sobre estatística, SQL e Python. Tenho interesse em aplicar minhas habilidades em demandas reais e entregar insights que habilitam a boa tomada de decisão.
       
 projects:
-    title: Projects
+    title: Portifólio de Projetos
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Os projetos realizados para demonstração de habilidades, competências e experiências atráves de técnicas e ferramentas usadas para área de dados.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: E-commerce Insights
+        link: https://gtherezan.github.io/ecommerce-insights/
+        tagline: Análises baseadas em dados de Web Analytics com o objetivo de produzir conhecimentos estratégicos e guiar mudanças do negócio. As ferramentas usadas foram: SQL e Python (pandas, matplotlib, plotly).
 
 education:
     - degree: Análise e Desenvolvimento de Sistemas
       university: Universidade Paulista
       time: 2019 - 2021
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Estagiário no Departamento de Informações Empresariais
@@ -84,34 +73,14 @@ experiences:
         - Coleta de informações sobre soluções líderes de análise de dados disponíveis no mercado para possibilitar uma eventual mudança das tecnologias em uso pela companhia.
         - Elaboração de relatórios quantitativos a respeito do uso das plataformas de BI pelos colaboradores.
  
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades
 
     toolset:
       - name: Microsoft Power BI
-        level: 80%
 
       - name: Python
-        level: 60%
 
       - name: SQL
-        level: 70%
 
       - name: Tableau
-        level: 30%
-
-#footer: >
-#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
