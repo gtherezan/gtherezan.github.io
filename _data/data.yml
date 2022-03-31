@@ -56,7 +56,7 @@ projects:
     assignments:
       - title: E-commerce Insights
         link: "https://gtherezan.github.io/ecommerce-insights/"
-        tagline: Análises baseadas em dados de Web Analytics com o objetivo de produzir conhecimentos estratégicos e guiar mudanças do negócio. As ferramentas usadas foram: SQL e Python (pandas, matplotlib, plotly).
+        tagline: Análises baseadas em dados de Web Analytics com o objetivo de produzir conhecimentos estratégicos e guiar mudanças do negócio. As ferramentas usadas foram SQL e Python (pandas, matplotlib, plotly).
 
 education:
     - degree: Análise e Desenvolvimento de Sistemas
