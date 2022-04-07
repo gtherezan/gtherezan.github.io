@@ -52,7 +52,7 @@ career-profile:
 projects:
     title: Portifólio de Projetos
     intro: >
-      Os projetos realizados para demonstração de habilidades, competências e experiências atráves de técnicas e ferramentas usadas para área de dados.
+      Os projetos realizados para demonstração de habilidades, competências e experiências através de técnicas e ferramentas usadas para área de dados.
     assignments:
       - title: E-commerce Insights
         link: "https://gtherezan.github.io/ecommerce-insights/"
