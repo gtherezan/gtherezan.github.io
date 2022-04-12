@@ -64,6 +64,15 @@ education:
       time: 2019 - 2021
 
 experiences:
+    - role: Estagiário no Departamento de Informações Empresariais
+      time: 01-2019 - 12-2019
+      company: Sabesp, São Paulo
+      details: |
+        - Realização do atendimento a chamados relacionados ao setor de BI visando clareza, rapidez e prestação de contas aos clientes. 
+        - Controle de permissões de acesso para relatórios e bases de dados.
+        - Coleta de informações sobre soluções líderes de análise de dados disponíveis no mercado para possibilitar uma eventual mudança das tecnologias em uso pela companhia.
+        - Elaboração de relatórios quantitativos a respeito do uso das plataformas de BI pelos colaboradores.
+        
     - role: Infraestrutura de TI
       time: 01-2015 - 07-2018
       company: Autônomo
@@ -74,14 +83,7 @@ experiences:
         - Instalação e suporte para sistemas, softwares e servidores diversos.
 
 
-    - role: Estagiário no Departamento de Informações Empresariais
-      time: 01-2019 - 12-2019
-      company: Sabesp, São Paulo
-      details: |
-        - Realização do atendimento a chamados relacionados ao setor de BI visando clareza, rapidez e prestação de contas aos clientes. 
-        - Controle de permissões de acesso para relatórios e bases de dados.
-        - Coleta de informações sobre soluções líderes de análise de dados disponíveis no mercado para possibilitar uma eventual mudança das tecnologias em uso pela companhia.
-        - Elaboração de relatórios quantitativos a respeito do uso das plataformas de BI pelos colaboradores.
+
  
 skills:
     title: Habilidades
