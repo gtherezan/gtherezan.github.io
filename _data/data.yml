@@ -64,6 +64,16 @@ education:
       time: 2019 - 2021
 
 experiences:
+    - role: Infraestrutura de TI
+      time: 01-2015 - 07-2018
+      company: Autônomo
+      details: |
+        - Arquitetura e instalação de redes de computadores.
+        - Sistemas operacionais Linux e Windows.
+        - Configuração de ambientes corporativos informatizados.
+        - Instalação e suporte para sistemas, softwares e servidores diversos.
+
+
     - role: Estagiário no Departamento de Informações Empresariais
       time: 01-2019 - 12-2019
       company: Sabesp, São Paulo
